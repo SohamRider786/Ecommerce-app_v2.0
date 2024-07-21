@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card__rating{
+    display: flex;
+}
+.card__image{
+    width: 180px;
+    height: 180px;
+}
+.card__info{
+    padding-left: 20px;
+}
+.card__button{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
+.card__title{
+    font-size: 17px;
+    font-weight: 800;
+}

@@ -1,0 +1,35 @@
+.Footer__container{
+    margin-top: 15px;
+}
+.Footer__top{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+.Footer__down{
+    background-color: #222f3d;
+    color: white;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Footer__one,.Footer__two,.Footer__three,.Footer__four{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    font-weight: 700;
+    font-size: 17px;
+}
+a{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #dddddd;
+}

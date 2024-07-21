@@ -1,0 +1,10 @@
+.search__results{
+    display: flex;
+    flex-direction: column;
+}
+.buffering{
+    display: flex;
+    font-size: 30px;
+    font-weight: 700;
+    justify-content: center;
+}
