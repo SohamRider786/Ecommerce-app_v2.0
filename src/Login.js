@@ -47,7 +47,7 @@ console.log(error);
         <Link to='/'>
                 <img
                     className="login__logo"
-                    src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png' alt="" 
+                    src='https://i3.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amazon_Prime_logo_%282022%29.svg/2560px-Amazon_Prime_logo_%282022%29.svg.png' alt="" 
                 />
         </Link>
         <div className='login__container'>
@@ -60,7 +60,7 @@ console.log(error);
                 <button type='submit' className='login__signInButton' onClick={signin}>Sign In</button>
             </form>
             <p>
-                    By signing-in you agree to the AMAZON FAKE CLONE Conditions of Use & Sale. Please
+                    By signing-in you agree to the Prime's Conditions of Use & Sale. Please
                     see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
             </p>
             <button className='login__registerButton' onClick={register}>Create your Amazon Account</button>

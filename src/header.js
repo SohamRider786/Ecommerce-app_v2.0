@@ -22,7 +22,7 @@ const handleAuth=()=>{
   return (
     <div className='header'>
         <Link to="/">
-            <img className='header__logo' src='https://www.nicepng.com/png/full/16-167642_amazon-logo-amazon-logo-white-text.png' />
+            <img className='header__logo' src='https://m.media-amazon.com/images/G/01/prime/marketing/slashPrime/prime_logo_White._CB646659517_.png' />
         </Link>
         <div className='header__search'>
             <input className='header__searchInput' type='text' placeholder='Search products...' value={input} onChange={(e)=>{handleChange(e.target.value)}}/>
